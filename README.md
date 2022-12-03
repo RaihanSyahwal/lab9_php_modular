@@ -14,7 +14,7 @@ untuk run http://localhost/lab9_php_modular/</p>
 buat folder koneksi seperti ini</p>
 ![gambar 3](ss/gambar%203.png)
 jika sudah lalu membuat header </p>
-[gambar 4](ss/gambar%204.png)
+![gambar 4](ss/gambar%204.png)
 kita buat juga file index  dan pastikan seperti ini agar terhubung dengan koneksi</p>
 ![gambar 5](ss/gambar%205.png)
 lalu kita buat file css nya agar terlihat rapi </p>
